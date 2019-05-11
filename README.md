@@ -195,7 +195,3 @@ This software is licensed under the MIT license
 [license-badge]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license]: https://github.com/yohangz/scala-play-angular-seed/blob/master/LICENSE
 
-[yohan-profile]: https://github.com/yohangz
-[lahiru-profile]: https://github.com/lahiruz
-[gayan-profile]: https://github.com/Arty26
-[anuradha-profile]: https://github.com/sanuradhag
